@@ -1,0 +1,7 @@
+tensorflow
+numpy
+Pillow
+dash
+dash_bootstrap_components
+pandas
+scikit-learn
